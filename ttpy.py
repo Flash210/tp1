@@ -1,7 +1,5 @@
-<<<<<<< HEAD
 def accueil(): 
  print("Bienvenue sur l'application améliorée !")  
-=======
 
 
 def multiplication(a, b): 
@@ -10,4 +8,3 @@ def multiplication(a, b):
 accueil()
 
 print(multiplication(4, 7))
->>>>>>> multi
