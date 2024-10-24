@@ -1,3 +1,3 @@
-def accueil(): 
- print("Bienvenue sur le projet Git !") 
-accueil()
+def multiplication(a, b): 
+ return a * b 
+print(multiplication(4, 7))
