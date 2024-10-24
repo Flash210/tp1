@@ -1,10 +1,3 @@
-def accueil(): 
- print("Bienvenue sur l'application améliorée !")  
-
-
-def multiplication(a, b): 
- return a * b 
-
-accueil()
-
-print(multiplication(4, 7))
+def soustraction(a, b): 
+ return a - b 
+print(soustraction(10, 5))
